@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" role="img" aria-label="Simple illustration of four install steps on a phone">
-  <rect width="760" height="420" fill="#0b1517"/>
-  <rect x="290" y="30" width="180" height="330" rx="22" fill="#050d0f" stroke="#00d7dd" stroke-width="3"/>
-  <rect x="308" y="58" width="144" height="90" rx="10" fill="#123a3e"/>
-  <polygon points="362,78 362,128 410,103" fill="#00d7dd"/>
-  <rect x="308" y="166" width="144" height="14" rx="7" fill="#1d3a3e"/>
-  <rect x="308" y="166" width="96" height="14" rx="7" fill="#00d7dd"/>
-  <rect x="308" y="200" width="144" height="34" rx="10" fill="#00d7dd"/>
-  <rect x="308" y="248" width="144" height="34" rx="10" fill="#16424a"/>
-  <rect x="308" y="296" width="144" height="34" rx="10" fill="#16424a"/>
-  <circle cx="110" cy="90" r="30" fill="#050d0f" stroke="#00d7dd" stroke-width="3"/>
-  <text x="110" y="100" font-family="Arial, sans-serif" font-size="28" fill="#00d7dd" text-anchor="middle">1</text>
-  <circle cx="110" cy="180" r="30" fill="#050d0f" stroke="#00d7dd" stroke-width="3"/>
-  <text x="110" y="190" font-family="Arial, sans-serif" font-size="28" fill="#00d7dd" text-anchor="middle">2</text>
-  <circle cx="650" cy="90" r="30" fill="#050d0f" stroke="#00d7dd" stroke-width="3"/>
-  <text x="650" y="100" font-family="Arial, sans-serif" font-size="28" fill="#00d7dd" text-anchor="middle">3</text>
-  <circle cx="650" cy="180" r="30" fill="#050d0f" stroke="#00d7dd" stroke-width="3"/>
-  <text x="650" y="190" font-family="Arial, sans-serif" font-size="28" fill="#00d7dd" text-anchor="middle">4</text>
-  <line x1="140" y1="90" x2="282" y2="90" stroke="#1d3a3e" stroke-width="3"/>
-  <line x1="140" y1="180" x2="282" y2="180" stroke="#1d3a3e" stroke-width="3"/>
-  <line x1="478" y1="90" x2="620" y2="90" stroke="#1d3a3e" stroke-width="3"/>
-  <line x1="478" y1="180" x2="620" y2="180" stroke="#1d3a3e" stroke-width="3"/>
-  <polyline points="90,300 130,340 190,275" fill="none" stroke="#00d7dd" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-  <polyline points="570,300 610,340 670,275" fill="none" stroke="#00d7dd" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect width="760" height="420" fill="#1e1845"/>
+  <rect x="290" y="30" width="180" height="330" rx="22" fill="#171233" stroke="#7c5cff" stroke-width="3"/>
+  <rect x="308" y="58" width="144" height="90" rx="10" fill="#2a2160"/>
+  <polygon points="362,78 362,128 410,103" fill="#7c5cff"/>
+  <rect x="308" y="166" width="144" height="14" rx="7" fill="#2e2566"/>
+  <rect x="308" y="166" width="96" height="14" rx="7" fill="#7c5cff"/>
+  <rect x="308" y="200" width="144" height="34" rx="10" fill="#7c5cff"/>
+  <rect x="308" y="248" width="144" height="34" rx="10" fill="#372a7d"/>
+  <rect x="308" y="296" width="144" height="34" rx="10" fill="#372a7d"/>
+  <circle cx="110" cy="90" r="30" fill="#171233" stroke="#7c5cff" stroke-width="3"/>
+  <text x="110" y="100" font-family="Arial, sans-serif" font-size="28" fill="#7c5cff" text-anchor="middle">1</text>
+  <circle cx="110" cy="180" r="30" fill="#171233" stroke="#7c5cff" stroke-width="3"/>
+  <text x="110" y="190" font-family="Arial, sans-serif" font-size="28" fill="#7c5cff" text-anchor="middle">2</text>
+  <circle cx="650" cy="90" r="30" fill="#171233" stroke="#7c5cff" stroke-width="3"/>
+  <text x="650" y="100" font-family="Arial, sans-serif" font-size="28" fill="#7c5cff" text-anchor="middle">3</text>
+  <circle cx="650" cy="180" r="30" fill="#171233" stroke="#7c5cff" stroke-width="3"/>
+  <text x="650" y="190" font-family="Arial, sans-serif" font-size="28" fill="#7c5cff" text-anchor="middle">4</text>
+  <line x1="140" y1="90" x2="282" y2="90" stroke="#2e2566" stroke-width="3"/>
+  <line x1="140" y1="180" x2="282" y2="180" stroke="#2e2566" stroke-width="3"/>
+  <line x1="478" y1="90" x2="620" y2="90" stroke="#2e2566" stroke-width="3"/>
+  <line x1="478" y1="180" x2="620" y2="180" stroke="#2e2566" stroke-width="3"/>
+  <polyline points="90,300 130,340 190,275" fill="none" stroke="#7c5cff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="570,300 610,340 670,275" fill="none" stroke="#7c5cff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
