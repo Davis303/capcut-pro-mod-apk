@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" role="img" aria-label="Simple illustration of a phone video editor with a timeline">
+  <rect width="760" height="420" fill="#0b1517"/>
+  <rect x="255" y="30" width="250" height="360" rx="24" fill="#050d0f" stroke="#00d7dd" stroke-width="3"/>
+  <rect x="275" y="60" width="210" height="150" rx="10" fill="#123a3e"/>
+  <polygon points="355,95 355,175 425,135" fill="#00d7dd"/>
+  <rect x="275" y="228" width="210" height="14" rx="7" fill="#1d3a3e"/>
+  <rect x="275" y="228" width="130" height="14" rx="7" fill="#00d7dd"/>
+  <rect x="275" y="262" width="60" height="34" rx="8" fill="#16424a"/>
+  <rect x="345" y="262" width="60" height="34" rx="8" fill="#16424a"/>
+  <rect x="415" y="262" width="60" height="34" rx="8" fill="#16424a"/>
+  <rect x="275" y="312" width="95" height="30" rx="8" fill="#123a3e"/>
+  <rect x="380" y="312" width="95" height="30" rx="8" fill="#123a3e"/>
+  <rect x="80" y="110" width="120" height="16" rx="8" fill="#1d3a3e"/>
+  <rect x="80" y="140" width="90" height="16" rx="8" fill="#00d7dd" opacity="0.55"/>
+  <rect x="560" y="110" width="120" height="16" rx="8" fill="#1d3a3e"/>
+  <rect x="560" y="140" width="90" height="16" rx="8" fill="#00d7dd" opacity="0.55"/>
+  <circle cx="140" cy="250" r="26" fill="none" stroke="#00d7dd" stroke-width="3"/>
+  <polygon points="132,236 132,264 158,250" fill="#00d7dd"/>
+  <circle cx="620" cy="250" r="26" fill="none" stroke="#00d7dd" stroke-width="3"/>
+  <rect x="608" y="238" width="24" height="24" rx="4" fill="#00d7dd"/>
+</svg>
