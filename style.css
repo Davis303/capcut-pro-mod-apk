@@ -3,14 +3,14 @@
 
 :root {
   --ink: #182430;
-  --muted: #655e75;
-  --accent: #6246ea;
-  --accent-dark: #4a32b8;
-  --band: #1d1440;
-  --line: #e2ddf2;
+  --muted: #6e6464;
+  --accent: #d92323;
+  --accent-dark: #a61e1e;
+  --band: #0d0d0f;
+  --line: #e8dede;
   --card: #ffffff;
-  --bg: #f7f6fb;
-  --tint: #efeafa;
+  --bg: #faf7f7;
+  --tint: #fbeeee;
 }
 
 * {
@@ -65,17 +65,17 @@ body {
 
 .main-nav a:hover,
 .main-nav a:focus {
-  color: #c6bcfa;
+  color: #f3b3b3;
   text-decoration: underline;
 }
 
 .main-nav a.active {
-  color: #c6bcfa;
+  color: #f3b3b3;
   font-weight: 700;
 }
 
 .pagehead {
-  background: linear-gradient(135deg, #1d1440 0%, #6246ea 100%);
+  background: linear-gradient(135deg, #0d0d0f 0%, #8f1d1d 100%);
   color: #ffffff;
 }
 
@@ -132,7 +132,7 @@ img.hero {
   margin: 22px auto 10px;
   border-radius: 14px;
   background-color: #ffffff;
-  box-shadow: 0 10px 30px rgba(29, 20, 64, 0.18);
+  box-shadow: 0 10px 30px rgba(13, 13, 15, 0.18);
 }
 
 ul.cards {
@@ -149,7 +149,7 @@ ul.cards li {
   border: 1px solid var(--line);
   border-radius: 12px;
   padding: 16px 18px;
-  box-shadow: 0 2px 8px rgba(29, 20, 64, 0.05);
+  box-shadow: 0 2px 8px rgba(13, 13, 15, 0.05);
 }
 
 ol.steps {
@@ -168,7 +168,7 @@ ol.steps li {
   border: 1px solid var(--line);
   border-radius: 12px;
   padding: 18px 20px 18px 66px;
-  box-shadow: 0 2px 8px rgba(29, 20, 64, 0.05);
+  box-shadow: 0 2px 8px rgba(13, 13, 15, 0.05);
 }
 
 ol.steps li::before {
@@ -206,7 +206,7 @@ table {
   border-radius: 12px;
   overflow: hidden;
   margin: 16px 0 20px;
-  box-shadow: 0 2px 8px rgba(29, 20, 64, 0.05);
+  box-shadow: 0 2px 8px rgba(13, 13, 15, 0.05);
 }
 
 th,
